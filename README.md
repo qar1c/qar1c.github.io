@@ -1,3 +1,3 @@
 # mypage
 
-call me r1c
+#call me r1c
